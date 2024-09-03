@@ -1,4 +1,4 @@
-# Prakash-Dura
+# PrakashDura
 # 👋 Hello! I'm Prakash
 
 ### 📊 Data Science Enthusiast | 💻 Computer Science Master's Student
