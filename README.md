@@ -11,7 +11,7 @@ I am currently pursuing my Master's degree in Computer Science with a concentrat
 ### 🔧 Technologies & Tools
 - Programming Languages: Python, R, SQL
 - Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-- Data Visualization: Matplotlib, Seaborn, Tableau
+- Data Visualization: Matplotlib, Seaborn, Miscrosoft PowerBI
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
 - Others: Docker, Kubernetes, Jenkins
