@@ -17,16 +17,8 @@ I am currently pursuing my Master's degree in Computer Science with a concentrat
 - Version Control: Git, GitHub
 - Others: Docker, Kubernetes, Jenkins
 
-### 💼 My Projects
-Here are some of my recent projects:
-- **[Project 1 Name](GitHub Link)**: Brief description of the project.
-- **[Project 2 Name](GitHub Link)**: Brief description of the project.
-- **[Project 3 Name](GitHub Link)**: Brief description of the project.
-
-Feel free to explore my repositories for more of my work!
-
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prakashdura)
 - [Gmail](mailto:prakashdura20@gmail.com)
-- 
+  
 If you'd like to collaborate or just have a chat, feel free to drop me a message on LinkedIn or send me an email.
