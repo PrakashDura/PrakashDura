@@ -18,8 +18,6 @@ I am currently pursuing my Master's degree in Computer Science with a concentrat
 - Others: Docker, Kubernetes, Jenkins
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash Dura-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prakashdura)
-[![Gmail](https://img.shields.io/badge/Gmail-prakashdura20@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:prakashdura20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40Prakash Dura-black?style=flat&logo=github)](https://github.com/Prakash-Dura)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash%20Dura-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prakashdura/) [![Gmail](https://img.shields.io/badge/Gmail-prakashdura20@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:prakashdura20@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%40PrakashDura-black?style=flat&logo=github)](https://github.com/PrakashDura)
+
 If you'd like to collaborate or just have a chat, feel free to drop me a message on LinkedIn or send me an email.
