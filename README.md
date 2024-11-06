@@ -14,7 +14,6 @@ I am currently pursuing my Master's degree in Computer Science with a concentrat
 - Data Visualization: Matplotlib, Seaborn, Miscrosoft PowerBI
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
-- Others: Docker, Kubernetes, Jenkins
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash%20Dura-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prakashdura/) [![Gmail](https://img.shields.io/badge/Gmail-prakashdura20@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:prakashdura20@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%40PrakashDura-black?style=flat&logo=github)](https://github.com/PrakashDura)
