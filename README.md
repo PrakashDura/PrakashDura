@@ -9,9 +9,9 @@ I am currently pursuing my Master's degree in Computer Science with a concentrat
 - 🚀 I am actively working on various projects that combine my interest in technology with practical applications in data science.
 
 ### 🔧 Technologies & Tools
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python, SQL
 - Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-- Data Visualization: Matplotlib, Seaborn, Miscrosoft PowerBI
+- Data Visualization: Matplotlib, Seaborn, Microsoft PowerBI
 - Databases: MySQL
 - Version Control: Git, GitHub
 
